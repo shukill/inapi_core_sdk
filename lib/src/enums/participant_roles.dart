@@ -1,0 +1,1 @@
+enum ParticipantRoles { participant, moderator, presenter }
